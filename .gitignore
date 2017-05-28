@@ -49,4 +49,4 @@ Temporary Items
 # UE4
 .log
 *.log
-Saved/Logs/ShooterTutorialGame.log
+Saved/*
